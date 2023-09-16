@@ -1,0 +1,2 @@
+export const baseUrl="http://localhost:5000/api"
+export const errorImage="https://st4.depositphotos.com/14953852/22772/v/450/depositphotos_227725020-stock-illustration-image-available-icon-flat-vector.jpg"
